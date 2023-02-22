@@ -13,15 +13,11 @@ sites:
     url: https://r.uvvu.pw
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.uvvu.pw
   theme: night
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: U v v U Status Page
+  name: UvvU Status Page
   introTitle: "**UvvU Service Uptime**"
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This page is Updated in Real-Time!
   navbar:
     - title: Status
       href: /
