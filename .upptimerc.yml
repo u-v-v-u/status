@@ -14,7 +14,7 @@ sites:
 
 status-website:
   cname: status.uvvu.pw
-  theme: night
+  theme: light
   name: UvvU Status Page
   introTitle: "**UvvU Service Uptime**"
   introMessage: This page is Updated in Real-Time!
