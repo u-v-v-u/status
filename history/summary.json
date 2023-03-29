@@ -10,11 +10,11 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 997,
-    "timeDay": 528,
-    "timeWeek": 824,
-    "timeMonth": 900,
-    "timeYear": 997,
+    "time": 1002,
+    "timeDay": 878,
+    "timeWeek": 868,
+    "timeMonth": 910,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2023-03-26": 41
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 280,
-    "timeWeek": 2470,
-    "timeMonth": 1119,
-    "timeYear": 933,
+    "time": 920,
+    "timeDay": 306,
+    "timeWeek": 2256,
+    "timeMonth": 1095,
+    "timeYear": 920,
     "dailyMinutesDown": {}
   },
   {
@@ -44,44 +44,18 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.88%",
-    "time": 1129,
-    "timeDay": 983,
-    "timeWeek": 1170,
-    "timeMonth": 1127,
-    "timeYear": 1129,
+    "time": 1161,
+    "timeDay": 1942,
+    "timeWeek": 1304,
+    "timeMonth": 1173,
+    "timeYear": 1161,
     "dailyMinutesDown": {
       "2023-03-28": 32,
       "2023-03-26": 28
-    }
-  },
-  {
-    "name": "LibReddit Instance",
-    "url": "https://r.uvvu.pw",
-    "icon": "https://icons.duckduckgo.com/ip3/r.uvvu.pw.ico",
-    "slug": "lib-reddit-instance",
-    "status": "down",
-    "uptime": "92.99%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "69.36%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "92.99%",
-    "time": 1816,
-    "timeDay": 946,
-    "timeWeek": 1982,
-    "timeMonth": 1896,
-    "timeYear": 1816,
-    "dailyMinutesDown": {
-      "2023-03-29": 73,
-      "2023-03-28": 1440,
-      "2023-03-27": 1440,
-      "2023-03-26": 135,
-      "2023-03-15": 104,
-      "2023-03-14": 277,
-      "2023-02-22": 29
     }
   }
 ]
