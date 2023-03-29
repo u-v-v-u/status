@@ -9,8 +9,6 @@ sites:
     url: https://influx.uvvu.pw
   - name: Grafana
     url: https://g.uvvu.pw
-  - name: LibReddit Instance
-    url: https://r.uvvu.pw
 
 status-website:
   cname: status.uvvu.pw
