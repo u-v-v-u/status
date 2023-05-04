@@ -6,8 +6,8 @@
     "slug": "analytics",
     "status": "up",
     "uptime": "81.56%",
-    "uptimeDay": "22.57%",
-    "uptimeWeek": "21.26%",
+    "uptimeDay": "23.53%",
+    "uptimeWeek": "21.40%",
     "uptimeMonth": "56.97%",
     "uptimeYear": "81.56%",
     "time": 4493,
@@ -50,19 +50,19 @@
     "url": "https://influx.uvvu.pw",
     "icon": "https://icons.duckduckgo.com/ip3/influx.uvvu.pw.ico",
     "slug": "influx-db",
-    "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "43.54%",
-    "uptimeWeek": "74.69%",
-    "uptimeMonth": "85.36%",
-    "uptimeYear": "93.72%",
+    "status": "down",
+    "uptime": "93.77%",
+    "uptimeDay": "43.43%",
+    "uptimeWeek": "74.67%",
+    "uptimeMonth": "85.46%",
+    "uptimeYear": "93.77%",
     "time": 4086,
     "timeDay": 4240,
     "timeWeek": 6428,
     "timeMonth": 4657,
     "timeYear": 4086,
     "dailyMinutesDown": {
-      "2023-05-04": 398,
+      "2023-05-04": 400,
       "2023-05-03": 415,
       "2023-05-02": 1112,
       "2023-05-01": 482,
@@ -78,7 +78,7 @@
       "2023-04-14": 146,
       "2023-04-13": 314,
       "2023-04-12": 826,
-      "2023-04-11": 114
+      "2023-04-11": 68
     }
   },
   {
@@ -86,12 +86,12 @@
     "url": "https://g.uvvu.pw",
     "icon": "https://icons.duckduckgo.com/ip3/g.uvvu.pw.ico",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "94.50%",
-    "uptimeDay": "47.21%",
-    "uptimeWeek": "77.04%",
-    "uptimeMonth": "87.17%",
-    "uptimeYear": "94.50%",
+    "status": "down",
+    "uptime": "94.57%",
+    "uptimeDay": "47.19%",
+    "uptimeWeek": "77.03%",
+    "uptimeMonth": "87.33%",
+    "uptimeYear": "94.57%",
     "time": 4521,
     "timeDay": 4765,
     "timeWeek": 5410,
@@ -113,7 +113,7 @@
       "2023-04-15": 194,
       "2023-04-14": 203,
       "2023-04-13": 361,
-      "2023-04-12": 614
+      "2023-04-12": 544
     }
   }
 ]
