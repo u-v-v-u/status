@@ -4,19 +4,19 @@
     "url": "https://analytics.uvvu.pw",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.uvvu.pw.ico",
     "slug": "analytics",
-    "status": "up",
-    "uptime": "81.39%",
-    "uptimeDay": "29.01%",
-    "uptimeWeek": "22.62%",
-    "uptimeMonth": "56.37%",
-    "uptimeYear": "81.39%",
+    "status": "down",
+    "uptime": "81.41%",
+    "uptimeDay": "30.11%",
+    "uptimeWeek": "22.85%",
+    "uptimeMonth": "56.41%",
+    "uptimeYear": "81.41%",
     "time": 4600,
-    "timeDay": 7877,
+    "timeDay": 8233,
     "timeWeek": 6851,
     "timeMonth": 5177,
     "timeYear": 4600,
     "dailyMinutesDown": {
-      "2023-05-04": 740,
+      "2023-05-04": 743,
       "2023-05-03": 1222,
       "2023-05-02": 1245,
       "2023-05-01": 629,
@@ -40,7 +40,7 @@
       "2023-04-13": 371,
       "2023-04-12": 903,
       "2023-04-11": 484,
-      "2023-04-10": 185
+      "2023-04-10": 167
     }
   },
   {
@@ -48,19 +48,19 @@
     "url": "https://influx.uvvu.pw",
     "icon": "https://icons.duckduckgo.com/ip3/influx.uvvu.pw.ico",
     "slug": "influx-db",
-    "status": "up",
-    "uptime": "93.83%",
-    "uptimeDay": "28.59%",
-    "uptimeWeek": "71.68%",
-    "uptimeMonth": "85.54%",
-    "uptimeYear": "93.83%",
+    "status": "down",
+    "uptime": "93.85%",
+    "uptimeDay": "29.16%",
+    "uptimeWeek": "71.66%",
+    "uptimeMonth": "85.59%",
+    "uptimeYear": "93.85%",
     "time": 4210,
-    "timeDay": 6550,
+    "timeDay": 5537,
     "timeWeek": 6849,
     "timeMonth": 4670,
     "timeYear": 4210,
     "dailyMinutesDown": {
-      "2023-05-04": 702,
+      "2023-05-04": 704,
       "2023-05-03": 415,
       "2023-05-02": 1112,
       "2023-05-01": 482,
@@ -75,7 +75,7 @@
       "2023-04-15": 253,
       "2023-04-14": 146,
       "2023-04-13": 314,
-      "2023-04-12": 557
+      "2023-04-12": 534
     }
   },
   {
@@ -83,14 +83,14 @@
     "url": "https://g.uvvu.pw",
     "icon": "https://icons.duckduckgo.com/ip3/g.uvvu.pw.ico",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "94.49%",
-    "uptimeDay": "34.45%",
-    "uptimeWeek": "74.39%",
-    "uptimeMonth": "87.07%",
-    "uptimeYear": "94.49%",
+    "status": "down",
+    "uptime": "94.50%",
+    "uptimeDay": "35.13%",
+    "uptimeWeek": "74.38%",
+    "uptimeMonth": "87.11%",
+    "uptimeYear": "94.50%",
     "time": 4501,
-    "timeDay": 4682,
+    "timeDay": 4849,
     "timeWeek": 5213,
     "timeMonth": 5247,
     "timeYear": 4501,
@@ -110,7 +110,7 @@
       "2023-04-15": 194,
       "2023-04-14": 203,
       "2023-04-13": 361,
-      "2023-04-12": 389
+      "2023-04-12": 372
     }
   }
 ]
