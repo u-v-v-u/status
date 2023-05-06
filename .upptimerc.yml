@@ -7,15 +7,13 @@ sites:
     url: https://analytics.uvvu.pw
   - name: InfluxDB
     url: https://influx.uvvu.pw
-  - name: Grafana
-    url: https://g.uvvu.pw
 
 status-website:
   cname: status.uvvu.pw
   theme: night
   name: UvvU Status
   introTitle: "**UvvU Services**"
-  introMessage: Real-Time updated Status Page on the U vv U Services, etc.
+  introMessage: Real-Time updated Status Page on the U vv U Services, etc. (Migrating to `netsu.network` soon)
   navbar:
     - title: Status
       href: /
