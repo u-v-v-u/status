@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.uvvu.pw.ico",
     "slug": "analytics",
     "status": "up",
-    "uptime": "85.28%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "86.31%",
-    "uptimeYear": "85.28%",
-    "time": 4264,
-    "timeDay": 1646,
-    "timeWeek": 1252,
-    "timeMonth": 4563,
-    "timeYear": 4264,
+    "uptime": "85.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "85.59%",
+    "uptimeYear": "85.34%",
+    "time": 4255,
+    "timeDay": 1636,
+    "timeWeek": 1286,
+    "timeMonth": 4522,
+    "timeYear": 4255,
     "dailyMinutesDown": {
-      "2023-05-30": 9,
       "2023-05-11": 59,
       "2023-05-07": 32,
       "2023-05-06": 112,
@@ -44,7 +43,7 @@
       "2023-04-14": 185,
       "2023-04-13": 371,
       "2023-04-12": 903,
-      "2023-04-11": 162
+      "2023-04-11": 252
     }
   }
 ]
