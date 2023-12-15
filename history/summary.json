@@ -4,12 +4,12 @@
     "url": "https://analytics.uvvu.pw",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.uvvu.pw.ico",
     "slug": "analytics",
-    "status": "up",
-    "uptime": "51.18%",
-    "uptimeDay": "57.12%",
-    "uptimeWeek": "10.78%",
-    "uptimeMonth": "3.86%",
-    "uptimeYear": "51.18%",
+    "status": "down",
+    "uptime": "51.19%",
+    "uptimeDay": "58.50%",
+    "uptimeWeek": "11.02%",
+    "uptimeMonth": "3.92%",
+    "uptimeYear": "51.19%",
     "time": 3066,
     "timeDay": 481,
     "timeWeek": 441,
@@ -172,8 +172,7 @@
       "2023-04-18": 391,
       "2023-04-17": 323,
       "2023-04-16": 261,
-      "2023-04-15": 230,
-      "2023-04-14": 24
+      "2023-04-15": 230
     }
   }
 ]
